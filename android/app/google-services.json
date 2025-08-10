@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147129905366",
+    "project_id": "bloomhealth-f6f03",
+    "storage_bucket": "bloomhealth-f6f03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147129905366:android:c6264dd457ab9a47cc1977",
+        "android_client_info": {
+          "package_name": "com.manrtitech.med_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCN-qbHkfS97AuoQFO1xDxMXmjUbit-mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
